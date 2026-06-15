@@ -1,0 +1,25 @@
+<!-- MINI-PROJECT: Mini-project 1: Trang HTML chuẩn đầu tiên
+Yêu cầu: Tạo repo GitHub có index.html trình bày cấu trúc tài liệu HTML, giải thích DOCTYPE, html, head, body và có README; bật GitHub Pages.
+Yêu cầu bắt buộc bổ sung: Bắt buộc bổ sung ảnh chụp thiết kế UI các page, phân vùng file HTML theo ảnh thiết kế, tổ chức dự án bài bản trên GitHub cá nhân và bật GitHub Pages để mở khóa bài tiếp theo.
+
+Cấu trúc repo đề xuất:
+- index.html
+- css/style.css
+- js/script.js
+- assets/
+- README.md
+
+TODO: Tự viết website hoàn chỉnh, không nộp một file rỗng hoặc code copy sẵn.
+-->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini-project 1: Trang HTML chuẩn đầu tiên</title>
+</head>
+<body>
+<!-- Header --> <header> <h1>Mini-project 1: Trang HTML chuẩn đầu tiên</h1> <p>Tìm hiểu cấu trúc cơ bản của tài liệu HTML.</p> </header> <!-- Nội dung chính --> <main> <section> <h2>DOCTYPE là gì?</h2> <p> <!DOCTYPE html> dùng để khai báo tài liệu HTML5, giúp trình duyệt hiển thị đúng theo tiêu chuẩn hiện đại. </p> </section> <section> <h2>Thẻ html</h2> <p> Thẻ html là phần tử gốc, bao bọc toàn bộ tài liệu HTML. </p> </section> <section> <h2>Thẻ head</h2> <p> Chứa các thông tin cấu hình như title, meta và liên kết CSS. </p> </section> <section> <h2>Thẻ body</h2> <p> Chứa toàn bộ nội dung hiển thị cho người dùng. </p> </section> <section> <h2>Thiết kế giao diện</h2> <img src="assets/ui-design.png" alt="Ảnh thiết kế giao diện"> <p>Ảnh chụp thiết kế UI của dự án.</p> </section> </main> <!-- Footer --> <footer> <p>Mini-project 1 - Thiết kế Web</p> </footer> <script src="js/script.js"></script>
+</body>
+</html>
